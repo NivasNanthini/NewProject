@@ -20,7 +20,9 @@ public class StepsDefinition extends BaseClass {
 		
 		System.out.println("NS");
 		
-		
+		chromeBrowserLaunch();
+		quit();
+		implicitlyWait(20);
 		
 	}
 
