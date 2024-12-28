@@ -10,6 +10,12 @@ public class StepsDefinition extends BaseClass{
 		
 		System.out.println("My name is sri");
 		
+		System.out.println("Rajathi raja");
+		
+		System.out.println("Nanthiiiiiiiiiii");
+		
+		System.out.println("NS");
+		
 		
 	}
 	
