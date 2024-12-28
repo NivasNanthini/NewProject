@@ -2,8 +2,8 @@ package org.steps;
 
 import org.base.BaseClass;
 
-public class StepsDefinition extends BaseClass{
-	
+public class StepsDefinition extends BaseClass {
+
 	public static void main(String[] args) {
 		
 		System.out.println("What is your name");
@@ -14,8 +14,14 @@ public class StepsDefinition extends BaseClass{
 		
 		System.out.println("Naga");
 		
+		System.out.println("Rajathi raja");
+		
+		System.out.println("Nanthiiiiiiiiiii");
+		
+		System.out.println("NS");
+		
+		
 		
 	}
-	
 
 }
